@@ -11,9 +11,9 @@ In a heap, the largest element is at the root, and the smallest element is at so
 By definition a heap is a complete binary tree. This means that a heap can be stored naturally in an array.
 ## For more information we have a word file and you can also find the source code there.
 
-##Group Members
-1.
-2.
+## Group Members
+1. Meklit Kebede
+2. Hermela
 3.
 4.
 5.
